@@ -1,0 +1,15 @@
+[submodule "EXPEREMENT"]
+	path = EXPEREMENT
+	url = git@github.com:cflat-development/EXPEREMENT.git
+[submodule "CFlat_Docs"]
+	path = CFlat_Docs
+	url = git@github.com:cflat-development/CFlat_Docs.git
+[submodule "CFlat_Backend"]
+	path = CFlat_Backend
+	url = git@github.com:cflat-development/CFlat_Backend.git
+[submodule "CFlat_Lib"]
+	path = CFlat_Lib
+	url = git@github.com:cflat-development/CFlat_Lib.git
+[submodule "CFlat_Compiler"]
+	path = CFlat_Compiler
+	url = git@github.com:cflat-development/CFlat_Compiler.git
